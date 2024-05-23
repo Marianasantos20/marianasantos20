@@ -2,7 +2,7 @@
 
 Meu nome é Mariana Santos
 
-Estou estudando na Alura
+Estou estudando na [Alura] (httsp://www.alura.com.br)
 Estou me desenvolvendo na linguagem Javascript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
